@@ -1,3 +1,10 @@
 {
-  "Language": "Русский"
+  "Language": "Русский",
+  "Page not found": "Страница не найдена",
+  "Main": "Главная",
+  "About": "О странице",
+  "Toggle": "Переключатель",
+  "Unexpected error": "Unexpected error",
+  "Update page": "Update page",
+  "throw error": "throw error"
 }

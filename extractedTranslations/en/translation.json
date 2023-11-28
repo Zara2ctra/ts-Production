@@ -1,5 +1,13 @@
 {
   "ABOUT PAGE": "ABOUT PAGE",
+  "About": "About",
   "Language": "Language",
-  "MAIN PAGE": "MAIN PAGE"
+  "MAIN PAGE": "MAIN PAGE",
+  "Main": "Main",
+  "Page not found": "Page not found",
+  "Toggle": "Toggle",
+  "Unexpected error": "Unexpected error",
+  "Update page": "Update page",
+  "throw error": "throw error",
+  "Страница не найдена": "Страница не найдена"
 }
