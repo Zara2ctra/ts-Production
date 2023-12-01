@@ -12,7 +12,7 @@ export const BugButton = () => {
 
     useEffect(() => {
         if (error) {
-            throw new Error()
+            //throw new Error()
         }
     }, [error])
 
